@@ -1,0 +1,74 @@
+#introduction ,svg,#contactMe{
+    background-color: antiquewhite;
+}
+
+h1,h2{
+    color:#444;
+    font-family:"Playfair Display", serif;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    border-radius: 80px;
+    margin: 40px ;
+    float: left;
+    margin-left: 60px;
+}
+
+span h1 , ul {
+    text-align: center;
+}
+
+ul,p{
+margin-top: 50px;
+list-style-type: none; /* إزالة النقاط */
+}
+ p {
+    font-size: 20px;
+    color:#444;
+    text-align: center;
+    margin: 30px  ;
+}
+
+body{
+    background-color: #D2B48C;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.GraduationContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+hr{
+    margin-bottom: 100px;
+}
+
+.contactIcons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width:600px) {
+    
+}
